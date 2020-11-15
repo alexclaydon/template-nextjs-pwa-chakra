@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and implementing the [Chakra-UI](https://chakra-ui.com/) design system.
+
+The Next.js / Chakra-UI example hosted [here](https://github.com/vercel/next.js/tree/master/examples/with-chakra-ui) uses out-of-date dependencies (namely, a pre-release version of Chakra-UI and older versions of Next.js and React / React-DOM).  In addition, I wanted to create a base for further template customisation using this combination going forward.
 
 ## Getting Started
 
